@@ -4,6 +4,8 @@
 
 Rename src/project_name to whatever the the project is called.
 
+You can run `python auto_setup.py` once you have pyenv and a Python version installed.
+
 ## Versioning
 
 **Unix**:
