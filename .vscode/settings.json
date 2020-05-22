@@ -1,0 +1,10 @@
+{
+  "python.linting.flake8Enabled": true,
+  "python.linting.mypyEnabled": true,
+  "python.formatting.provider": "black",
+  "python.linting.pylintEnabled": false,
+  "python.linting.enabled": true,
+  "editor.formatOnSave": true,
+  "python.linting.lintOnSave": true,
+  "python.pythonPath": "c:\\Users\\Shane\\python-project-boilerplate\\venv\\Scripts\\python.exe"
+}
