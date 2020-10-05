@@ -1,7 +1,10 @@
-__pycache__
-venv/
+*.pyc
+*.log
+*.xml
+**/.idea/
+**/__pycache__
+**/venv/
 
-.vscode/launch.json
 .mypy_cache
 .ipynb_checkpoints
 .coverage
@@ -10,3 +13,10 @@ venv/
 .sphinx_coverage
 
 *.DS_Store
+
+*.egg-info
+
+testing.py
+
+
+.vscode/

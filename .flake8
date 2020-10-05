@@ -1,5 +1,5 @@
 [flake8]
-select = B,B9,BLK,C,E,F,S,W
+select = B,B9,BLK,C,D,DAR,E,F,S,W
 max-line-length = 88
 ignore = E203,E501,W503
 max-complexity = 10
@@ -10,3 +10,4 @@ exclude =
 
 mypy_config = mypy.ini
 per-file-ignores = tests/*:S101
+docstring-convention = google
