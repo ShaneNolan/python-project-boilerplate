@@ -95,7 +95,7 @@ poetry add nox
 ### Documentation Generator: Sphinx
 
 ```bash
-pip install sphinx sphinx_rtd_theme sphinx-autodoc-typehints
+poetry add sphinx sphinx_rtd_theme sphinx-autodoc-typehints
 ```
 
 ### Documentation Linting: Darglint
